@@ -2,6 +2,6 @@
 
 A new update test
 
-conflict
+a conflict
 
 Change in new branch
